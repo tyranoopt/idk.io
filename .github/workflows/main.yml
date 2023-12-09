@@ -7,7 +7,7 @@
     /* You can add CSS styling here */
     /* For example, customize the appearance of the game elements */
     .container {
-      display: grid;
+     display: grid; 
       grid-template-columns: repeat(3, 1fr);
       gap: 10px;
       margin-top: 20px;
